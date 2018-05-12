@@ -1,0 +1,29 @@
+_repo: Stories-by-American-Authors-Volume-8_31146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+tableOfContents: "The brigade commander, by J.W. De Forest\r\nSplit zephyr, by Henry\
+  \ A. Beers\r\nZerviah hope, by Elizabeth Stuart Phelps\r\nThe life-magnet, by Alvey\
+  \ A. Adee\r\nOsgood's predicament, by Elizabeth D.B. Stoddard."
+title: Stories by American Authors, Volume 8
+url: http://www.gutenberg.org/ebooks/31146
